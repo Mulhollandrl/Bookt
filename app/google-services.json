@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525536475220",
+    "project_id": "bookt-d2830",
+    "storage_bucket": "bookt-d2830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525536475220:android:e5e185702b6bc0bec615c1",
+        "android_client_info": {
+          "package_name": "com.mulholland.bookt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525536475220-jp199orssn7nru9gb0j2c51k78k8dapm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mulholland.bookt",
+            "certificate_hash": "5bc5afe038f11385f76a0451a8d26b34990a5d74"
+          }
+        },
+        {
+          "client_id": "525536475220-hcmt7f31dvgehjg48mpi0qr2mlap2rm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBT6018Ly5f0Jm_XXbU0fBnGSPcXmM74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525536475220-hcmt7f31dvgehjg48mpi0qr2mlap2rm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
